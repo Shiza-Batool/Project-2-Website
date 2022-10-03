@@ -1,4 +1,4 @@
-# Umbrella
+# Website
 
 Our project's major objective was to design a website using the skills we learned about web development in the ICT course and online that would allow users to access websites of various genres in one location.
 
